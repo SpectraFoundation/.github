@@ -1,4 +1,4 @@
-# .github
+# Welcome To Spectra Solver :)
 🌟 Introducing Spectra Solver: Your All-in-One Scientific and General Calculator! 🌟
 
 Are you tired of juggling multiple tools for scientific calculations, linear algebra, and general math? Look no further! Spectra Solver is here to simplify your life. 🚀
