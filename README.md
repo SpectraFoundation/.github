@@ -5,7 +5,7 @@ Are you tired of juggling multiple tools for scientific calculations, linear alg
 
 Key Features: 
 
-Robust and Powerful: Built using Python and C++, Spectra Solver tackles large-scale eigenvalue problems with ease. Whether you’re a student, researcher, or developer, it’s your go-to tool.<b>
+Robust and Powerful: Built using Python and C++, Spectra Solver tackles large-scale eigenvalue problems with ease. Whether you’re a student, researcher, or developer, it’s your go-to tool.<br>
 
 All-in-One: From matrix computations to general math functions, Spectra Solver has you covered. No more switching between apps!<b>
 
