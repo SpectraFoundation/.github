@@ -3,7 +3,7 @@
 
 Are you tired of juggling multiple tools for scientific calculations, linear algebra, and general math? Look no further! Spectra Solver is here to simplify your life. 🚀
 
-<b>Key Features:<b> 
+<b>Key Features:</b> 
 
 <b>Robust and Powerful</b>: Built using Python and C++, Spectra Solver tackles large-scale eigenvalue problems with ease. Whether you’re a student, researcher, or developer, it’s your go-to tool.<br>
 
